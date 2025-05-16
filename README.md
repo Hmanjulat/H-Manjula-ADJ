@@ -33,3 +33,5 @@
 [program3b3 o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/0caf99c6f5621cce674db15b682ec0365d612003)
 
 [program3b4 o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/e5878e2d0e0f7c660610e8b8662337f783c1ac76)
+
+[program3b5 o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/65ed4aac611fada59211cfe8785b6502f43b0fb6)
