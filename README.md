@@ -21,3 +21,5 @@
 [program1c5 o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/a026b383b73434130ecb6e97b1d718fbae422e11)
 
 [program2a o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/4a47f37f5bf668ddd7167a5fd6e1c2aeeb074ae9)
+
+[program2b o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/3c6e2165209bdd965d2bacad24273e960b8733e7)
