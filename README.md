@@ -27,3 +27,5 @@
 [program3a o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/3d9ca96b18100250e79208b81848de7a1b9aa050)
 
 [program3b1 o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/ca8e36eeb13fc08f8ed45f2111b8a8f399f57c43)
+
+[program3b2 o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/574e930314c8f02970b6bc0a644a16173813937f)
