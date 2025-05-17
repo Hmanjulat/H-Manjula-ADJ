@@ -56,3 +56,5 @@
 [program5b o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/5cbbb1156f213be5419a794444dcd71c9bea54e1)
 
 [program5c o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/2fd2f6c535b44e2b24819617bc45c53906fa40dc)
+
+[program5d o/p link]->(https://github.com/Hmanjulat/H-Manjula-ADJ/commit/fa93aa92fd034691db15f98cb4b32018dabacffc)
